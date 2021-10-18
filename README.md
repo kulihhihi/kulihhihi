@@ -1,4 +1,4 @@
-<center><h1> 👋 Hi, I’m Phạm Văn Linh </h1></center>
+<h1 align="center"> 👋 Hi, I’m Phạm Văn Linh </h1>
 
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me <b><a href="https://www.facebook.com/hnilnavmahp.ku/" target="blank">Pham Van Linh</a></b>
